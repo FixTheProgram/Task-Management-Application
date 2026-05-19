@@ -1,0 +1,13 @@
+# Ignore frontend dependencies
+**/node_modules/
+**/dist/
+
+# Ignore backend builds
+**/target/
+**/.gradle/
+**/build/
+
+# Ignore IDE configs
+**/.idea/
+**/.vscode/
+**/*.imlgit init
